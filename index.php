@@ -39,8 +39,7 @@
                     <img src="img/film/F-05.png" class="card-img-top" alt="Bora Bora">
                     <div class="card-body">
                         <h5 class="card-title">Bora Bora (2011)</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mattis ante at
-                            imperdiet commodo.</p>
+                        <p class="card-text">Mia, der er 15 år gammel, er i konflikt med alle. Skolen er et helvede, og hendes mor er altid efter hende. Mia er kun i fred, når hun løber - noget hun er god til. På gågaden i byen møder hun Zack, der er 16 år og en del af en bande af børn. De vil være uafhængige af deres forældre og leve som lommetyve. Mia slutter sig til dem, men presset er svært at håndtere. Derudover holder politiet øje med dem. Mia har et valg, enten at fortsætte med at ignorere sine problemer eller tage ansvar for dem.</p>
                     </div>
                 </div>
             </div>
@@ -49,8 +48,7 @@
                     <img src="img/film/NK3-02.png" class="card-img-top" alt="Nordkraft">
                     <div class="card-body">
                         <h5 class="card-title">Nordkraft (2005)</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mattis ante at
-                            imperdiet commodo.</p>
+                        <p class="card-text">Nordkraft er en rå og ærlig dansk film fra 2005, der følger tre unge menneskers liv i det nordjyske narkomiljø. Med en stærk og realistisk skildring af stoffer, kriminalitet og kærlighed, er dette en film, der både skaber debat og eftertænksomhed.</p>
                     </div>
                 </div>
             </div>
@@ -59,8 +57,7 @@
                     <img src="img/film/F-06.png" class="card-img-top" alt="Bølle Bob">
                     <div class="card-body">
                         <h5 class="card-title">Bølle Bob (1998)</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam mattis ante at
-                            imperdiet commodo.</p>
+                        <p class="card-text">Døgnkioskejer Blom har vilde planer om at bygge et parkeringshus lige dér, hvor byens børn ynder at hænge ud efter de kedelige timer i skolen hos snakkemaskinen fru Basse. Med Bølle-Bob i spidsen tager børnene affære og klarer paragrafferne.</p>
                     </div>
                 </div>
             </div>

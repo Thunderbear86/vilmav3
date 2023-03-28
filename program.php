@@ -49,7 +49,7 @@
 
             <div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="card event pt-3">
-                    <img src="img/PH.jpeg" class="card-img-top" alt="Workshop">
+                    <img src="img/pro/work.jpeg" class="card-img-top" alt="Workshop">
                     <div class="card-body">
                         <h3 class="card-title">Workshop</h3>
                         <p class="card-text fw-bold">Lav din egen kortfilm!</p>
@@ -70,8 +70,7 @@
                     <div class="card-body">
                         <h3 class="card-title">Nordkraft (2005)</h3>
                         <p class="card-title fw-bold">Film og Meet N' Greet</p>
-                        <p class="card-text">Oplev en intens og rå fortælling om ungdom, stofmisbrug og venskab i Aalborgs undergrundsmiljø. Instrueret af Ole Christian Madsen.
-                        </p>
+                        <p class="card-text">Oplev en intens og rå fortælling om ungdom, stofmisbrug og venskab i Aalborgs undergrundsmiljø. Instrueret af Ole Christian Madsen.</p>
                         <p class="card-text">Tag med på en rejse ind i den dystre verden af narkotikamisbrug, hvor unge står over for udfordringer i form af afhængighed, kærlighed og venskab.</p>
                         <p class="card-text">En stærk filmoplevelse om opvækst og livet på kanten, som du
                             ikke vil gå glip af.</p>
@@ -85,7 +84,7 @@
 
             <div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="card event pt-3">
-                    <img src="img/PH.jpeg" class="card-img-top" alt="Oplæg">
+                    <img src="img/pro/op.jpeg" class="card-img-top" alt="Oplæg">
                     <div class="card-body">
                         <h3 class="card-title">Oplæg</h3>
                         <p class="card-text fw-bold">Et indblik i branchen</p>
@@ -119,7 +118,7 @@
             </div>
             <div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="card event pt-3">
-                    <img src="img/PH.jpeg" class="card-img-top" alt="Film Quiz">
+                    <img src="img/pro/quiz.jpeg" class="card-img-top" alt="Film Quiz">
                     <div class="card-body">
                         <h3 class="card-title">Film Quiz</h3>
                         <p class="card-text">Event Description</p>
