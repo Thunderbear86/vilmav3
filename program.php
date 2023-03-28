@@ -40,7 +40,7 @@
                         </p>
                         <p class="card-text"> Så kom og oplev Bora Bora sammen med os! </p>
                         <h5 class="card-text">Tidspunkt</h5>
-                        <p class="card-text">DATO og tid</p>
+                        <p class="card-text">Mandag d. 20/5</p>
                         <h5 class="card-text">Sted</h5>
                         <p class="card-text">Fabriksvej 1, 4700 Næstved</p>
                     </div>
@@ -53,11 +53,11 @@
                     <div class="card-body">
                         <h3 class="card-title">Workshop</h3>
                         <p class="card-text fw-bold">Lav din egen kortfilm!</p>
-                        <p class="card-text"> Drømmer du om at skabe din egen kortfilm? På Vilma Film Festival kan du!</p>
-                        <p class="card-text">Tirsdag d. 23. maj kan du lave din egen film med professionel hjælp. Vi viser de færdige film senere på ugen.</p>
+                        <p class="card-text"> Drømmer du om at <<span class="fw-bold">skabe din egen kortfilm?</span> På Vilma Film Festival kan du!</p>
+                        <p class="card-text">Kom og skab din egen film med professionel hjælp. Vi viser de færdige film senere på ugen.</p>
                         <p class="card-text">Tilmeld dig nu og lad os sammen skabe noget fantastisk!</p>
                         <h5 class="card-text">Tidspunkt</h5>
-                        <p class="card-text">Event Time and Date</p>
+                        <p class="card-text">Tirsdag d. 21/5</p>
                         <h5 class="card-text">Sted</h5>
                         <p class="card-text">Jens Baggesens Gade 17, 4220 Korsør</p>
                     </div>
@@ -76,7 +76,7 @@
                         <p class="card-text">En stærk filmoplevelse om opvækst og livet på kanten, som du
                             ikke vil gå glip af.</p>
                         <h5 class="card-text">Tidspunkt</h5>
-                        <p class="card-text">Event Time and Date</p>
+                        <p class="card-text">Onsdag d. 22/5</p>
                         <h5 class="card-text">Sted</h5>
                         <p class="card-text">Klosterparks Allé 10, 4100 Ringsted</p>
                     </div>
@@ -89,11 +89,11 @@
                     <div class="card-body">
                         <h3 class="card-title">Oplæg</h3>
                         <p class="card-text fw-bold">Et indblik i branchen</p>
-                        <p class="card-text">Vilma Film Festival præsenterer vores oplægsaften d. 25/5 med professionelle filmfolk, der deler deres erfaringer om filmproduktion.</p>
+                        <p class="card-text">Vilma Film Festival præsenterer oplægsaften med <span class="fw-bold">professionelle filmfolk</span>, der deler deres erfaringer om filmproduktion.</p>
                         <p class="card-text">Få et unikt indblik i, hvad der kræves for at skabe en succesfuld film, og lær fra de bedste.</p>
                         <p class="card-text">Sæt kryds i kalenderen og vær med på Vilma Film Festival.</p>
                         <h5 class="card-text">Tidspunkt</h5>
-                        <p class="card-text">Event Time and Date</p>
+                        <p class="card-text">Torsdag d. 23/5</p>
                         <h5 class="card-text">Sted</h5>
                         <p class="card-text">Stenstuegade 14, 4200 Slagelse</p>
                     </div>
@@ -111,7 +111,7 @@
                         <p class="card-text">I maj måned præsenterer Vilma Film Festivalen en fantastisk udendørsvisning af den ikoniske Bølle Bob fra 1998! </p>
                         <p class="card-text">Tøv ikke, med at købe din billet nu, og få adgang til en uge fyldt med eventyr, nostalgi og masser af popkorn!</p>
                         <h5 class="card-text">Tidspunkt</h5>
-                        <p class="card-text">Event Time and Date</p>
+                        <p class="card-text">Fredag d. 24/5</p>
                         <h5 class="card-text">Sted</h5>
                         <p class="card-text">Schweizerpladsen Slagelse</p>
                     </div>
@@ -123,12 +123,12 @@
                     <div class="card-body">
                         <h3 class="card-title">Film Quiz</h3>
                         <p class="card-text">Event Description</p>
-                        <p class="card-text">EEr du klar til en aften med filmquiz og spænding? Vilma Film Festival inviterer alle aldre til at deltage i vores filmquiz søndag d. 28/5!</p>
-                        <p class="card-text">Samtidig vil vi også vise de korte film, som deltagerne lavede d. 23/5. Kom og se, hvad vores talenter har skabt!</p>
+                        <p class="card-text">EEr du klar til en aften med filmquiz og spænding? Vilma Film Festival inviterer alle aldre til at deltage i vores filmquiz lørdag d. 25/5!</p>
+                        <p class="card-text">Samtidig vil vi også vise de korte film, som deltagerne lavede d. 21/5. Kom og se, hvad vores talenter har skabt!</p>
                         <p class="card-text">Der vil være præmier til de bedste hold, så tag dine venner og familie med og konkurrér om sejren.</p>
                         <p class="card-text">Tilkøb snacks og drikkevarer på stedet, og nyd en hyggelig aften sammen med andre filminteresserede.</p>
                         <h5 class="card-text">Tidspunkt</h5>
-                        <p class="card-text">Event Time and Date</p>
+                        <p class="card-text">Lørdag d. 25/5</p>
                         <h5 class="card-text">Sted</h5>
                         <p class="card-text">Jens Baggesens Gade 17, 4220 Korsør</p>
                     </div>
